@@ -1,10 +1,10 @@
 === Anymags ===
 Contributors: blogwp
 Requires at least: 5.0
-Tested up to: 6.4
+Tested up to: 6.7.1
 Requires PHP: 7.0
 License: GPLv2 or later
-Stable tag: 1.0.20
+Stable tag: 1.0.21
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: blog, news, two-columns, right-sidebar, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, editor-style, footer-widgets, theme-options, full-width-template, sticky-post, custom-header, custom-colors, flexible-header, grid-Layout, one-column, three-columns, left-sidebar , post-formats, rtl-language-support, block-styles, wide-blocks, entertainment, featured-image-header, front-page-post-form
 
